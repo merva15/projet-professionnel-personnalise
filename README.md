@@ -1,6 +1,6 @@
 # 🔗  Projet - PPP
 
-- [Projet PPP – CAF de Paris](docs/PPP-BINAZON-DENISE-E5CCSN.pdf) : synthèse de mes missions en support VIP, gestion de parc, migration AD, Windows Hello, et pilotage de mini-projets.
+- [Projet PPP](docs/PPP-BINAZON-DENISE-E5CCSN.pdf) : synthèse de mes missions en support VIP, gestion de parc, migration AD, Windows Hello, et pilotage de mini-projets.
 
 ---
 
